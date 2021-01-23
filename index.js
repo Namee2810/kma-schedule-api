@@ -15,6 +15,10 @@ const allowCrossDomain = function (req, res, next) {
 }
 app.use(allowCrossDomain);
 
+app.get("/", (req, res) => {
+  res.send("Hi");
+})
+
 const login = require('./routes/login');
 app.use('/login', login);
 
