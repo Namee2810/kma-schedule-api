@@ -1,0 +1,307 @@
+{
+  "studentProfile": {
+    "displayName": "Test",
+    "studentCode": "CT01TEST",
+    "gender": "Nam",
+    "birthday": "01/01/2000"
+  },
+  "schedule": [
+    {
+      "day": "01/06/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "01/06/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "02/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410)",
+      "teacher": "Thái Thị Thanh Vân",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "02/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "07/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410)",
+      "teacher": "Thái Thị Thanh Vân",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "07/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "08/06/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "08/06/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "09/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410)",
+      "teacher": "Thái Thị Thanh Vân",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "09/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "14/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "15/06/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "15/06/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "16/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "16/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "21/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "22/06/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "22/06/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "23/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "28/06/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "29/06/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "29/06/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "30/06/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "05/07/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "06/07/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "06/07/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "07/07/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "09/07/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "12/07/2021",
+      "subjectCode": "ATCBTT2",
+      "subjectName": "Toán cao cấp A2",
+      "className": "Toán cao cấp A2-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Văn Tân",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "13/07/2021",
+      "subjectCode": "AT1LLLM3",
+      "subjectName": "Chủ nghĩa xã hội khoa học",
+      "className": "Chủ nghĩa xã hội khoa học-2-20 (A17C5D410)",
+      "teacher": "",
+      "lesson": "4,5,6",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "13/07/2021",
+      "subjectCode": "ATLLDL2",
+      "subjectName": "Kỹ năng mềm",
+      "className": "Kỹ năng mềm-2-20 (A17C5D410)",
+      "teacher": "Nguyễn Thị Hồng Phương",
+      "lesson": "1,2,3",
+      "room": "304_TA2 TA2"
+    },
+    {
+      "day": "14/07/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    },
+    {
+      "day": "16/07/2021",
+      "subjectCode": "ATCTHT3",
+      "subjectName": "Lập trình căn bản",
+      "className": "Lập trình căn bản-2-20 (A17C5D410.2)",
+      "teacher": "",
+      "lesson": "7,8,9",
+      "room": ""
+    }
+  ]
+}
