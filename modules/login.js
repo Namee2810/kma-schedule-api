@@ -62,9 +62,10 @@ module.exports = async (username, password) => {
           studentProfile: dataStudentProfile,
           schedule: dataSchedule
         })
+        const uid = generateAccessToken({ uid: username })
         res = {
           status: 200,
-          token
+          token, uid
         }
       }
       else {
