@@ -65,7 +65,8 @@ module.exports = async (username, password) => {
         const token = generateAccessToken({ uid: username })
         res = {
           status: 200,
-          token, schedule
+          token,
+          schedule
         }
       }
       else {
