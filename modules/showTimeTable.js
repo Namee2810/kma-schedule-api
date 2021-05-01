@@ -50,7 +50,7 @@ module.exports = async (cookieJar, drpSemester) => {
     return Promise.resolve(res)
   } catch (err) {
     let res = {
-      code: 400
+      status: 400
     }
 
     return Promise.reject(res)
