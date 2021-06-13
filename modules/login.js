@@ -58,15 +58,11 @@ module.exports = async (username, password) => {
           .then(response_showTimeTable => {
             dataSchedule = response_showTimeTable.data;
           })
-        const schedule = generateAccessToken({
-          studentProfile: dataStudentProfile,
-          schedule: dataSchedule
-        })
-        const token = generateAccessToken({ uid: username })
         res = {
           status: 200,
-          token,
-          schedule
+          username,
+          studentProfile: dataStudentProfile,
+          schedule: dataSchedule
         }
       }
       else {
