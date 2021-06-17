@@ -56,7 +56,11 @@ module.exports = async (username, password) => {
           })
         await showTimeTable(cookieJar)
           .then(response_showTimeTable => {
-            dataSchedule = response_showTimeTable.data;
+            dataSchedule = response_showTimeTable.data.map(item => ({
+              ...item,
+              day: item.day.split("/").map(i => +i),
+              lesson: item.lesson.split(",")
+            }));
           })
         res = {
           status: 200,
