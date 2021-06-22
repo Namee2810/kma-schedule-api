@@ -60,7 +60,7 @@ module.exports = async (username, password) => {
               ...item,
               day: item.day.split("/").map(i => +i),
               lesson: item.lesson.split(",")
-            }));
+            })).sort((current, next) => current.lesson[0] - next.lesson[0]);
           })
         res = {
           status: 200,
